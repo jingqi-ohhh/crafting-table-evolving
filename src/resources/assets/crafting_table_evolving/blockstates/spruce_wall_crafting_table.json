@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "crafting_table_evolving:block/spruce_wall_crafting_table"
+    },
+    "facing=east": {
+      "model": "crafting_table_evolving:block/spruce_wall_crafting_table",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "crafting_table_evolving:block/spruce_wall_crafting_table",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "crafting_table_evolving:block/spruce_wall_crafting_table",
+      "y": 270
+    }
+  }
+}
