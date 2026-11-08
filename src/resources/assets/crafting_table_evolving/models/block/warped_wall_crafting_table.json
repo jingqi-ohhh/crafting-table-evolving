@@ -1,0 +1,204 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "crafting_table_evolving:block/crafting_table_front_warped",
+    "top": "crafting_table_evolving:block/crafting_table_top_warped",
+    "side": "crafting_table_evolving:block/crafting_table_side_warped",
+    "front": "crafting_table_evolving:block/crafting_table_front_warped",
+    "planks": "minecraft:block/warped_planks",
+    "chain": "minecraft:block/chain",
+    "beam": "crafting_table_evolving:block/beam_warped"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        12,
+        12
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "north": {
+          "texture": "#beam"
+        },
+        "east": {
+          "texture": "#beam"
+        },
+        "south": {
+          "texture": "#beam"
+        },
+        "west": {
+          "texture": "#beam"
+        },
+        "up": {
+          "texture": "#beam"
+        },
+        "down": {
+          "texture": "#beam"
+        }
+      }
+    },
+    {
+      "from": [
+        4,
+        9,
+        14
+      ],
+      "to": [
+        6,
+        12,
+        15
+      ],
+      "shade": false,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            6,
+            16
+          ],
+          "texture": "#chain"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            3,
+            16
+          ],
+          "texture": "#chain"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            6,
+            16
+          ],
+          "texture": "#chain"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            3,
+            16
+          ],
+          "texture": "#chain"
+        },
+        "up": {
+          "texture": "#chain"
+        },
+        "down": {
+          "texture": "#chain"
+        }
+      }
+    },
+    {
+      "from": [
+        10,
+        9,
+        14
+      ],
+      "to": [
+        12,
+        12,
+        15
+      ],
+      "shade": false,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            6,
+            16
+          ],
+          "texture": "#chain"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            3,
+            16
+          ],
+          "texture": "#chain"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            6,
+            16
+          ],
+          "texture": "#chain"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            3,
+            16
+          ],
+          "texture": "#chain"
+        },
+        "up": {
+          "texture": "#chain"
+        },
+        "down": {
+          "texture": "#chain"
+        }
+      }
+    },
+    {
+      "from": [
+        1,
+        5,
+        13
+      ],
+      "to": [
+        15,
+        9,
+        16
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            1,
+            4,
+            15,
+            12
+          ],
+          "texture": "#front"
+        },
+        "east": {
+          "texture": "#side"
+        },
+        "south": {
+          "texture": "#side"
+        },
+        "west": {
+          "texture": "#side"
+        },
+        "up": {
+          "uv": [
+            1,
+            5,
+            15,
+            8
+          ],
+          "texture": "#top"
+        },
+        "down": {
+          "texture": "#planks"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "crafting_table_evolving:item/portable_crafting_table"
+  }
+}
