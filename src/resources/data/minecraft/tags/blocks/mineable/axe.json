@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "crafting_table_evolving:wall_crafting_table",
+    "crafting_table_evolving:spruce_crafting_table",
+    "crafting_table_evolving:spruce_wall_crafting_table",
+    "crafting_table_evolving:birch_crafting_table",
+    "crafting_table_evolving:birch_wall_crafting_table",
+    "crafting_table_evolving:jungle_crafting_table",
+    "crafting_table_evolving:jungle_wall_crafting_table",
+    "crafting_table_evolving:acacia_crafting_table",
+    "crafting_table_evolving:acacia_wall_crafting_table",
+    "crafting_table_evolving:dark_oak_crafting_table",
+    "crafting_table_evolving:dark_oak_wall_crafting_table",
+    "crafting_table_evolving:mangrove_crafting_table",
+    "crafting_table_evolving:mangrove_wall_crafting_table",
+    "crafting_table_evolving:cherry_crafting_table",
+    "crafting_table_evolving:cherry_wall_crafting_table",
+    "crafting_table_evolving:bamboo_crafting_table",
+    "crafting_table_evolving:bamboo_wall_crafting_table",
+    "crafting_table_evolving:crimson_crafting_table",
+    "crafting_table_evolving:crimson_wall_crafting_table",
+    "crafting_table_evolving:warped_crafting_table",
+    "crafting_table_evolving:warped_wall_crafting_table"
+  ]
+}

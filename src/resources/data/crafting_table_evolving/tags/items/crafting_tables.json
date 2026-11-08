@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:crafting_table",
+    "crafting_table_evolving:spruce_crafting_table",
+    "crafting_table_evolving:birch_crafting_table",
+    "crafting_table_evolving:jungle_crafting_table",
+    "crafting_table_evolving:acacia_crafting_table",
+    "crafting_table_evolving:dark_oak_crafting_table",
+    "crafting_table_evolving:mangrove_crafting_table",
+    "crafting_table_evolving:cherry_crafting_table",
+    "crafting_table_evolving:bamboo_crafting_table",
+    "crafting_table_evolving:crimson_crafting_table",
+    "crafting_table_evolving:warped_crafting_table"
+  ]
+}

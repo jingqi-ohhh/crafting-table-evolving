@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "crafting_table_evolving",
+  "version": "${version}",
+  "name": "Crafting Table Evolving",
+  "description": "Adds more crafting tables with chest-like storage.",
+  "authors": [
+    "jingqi-ohhh"
+  ],
+  "license": "LGPL-3.0-only",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.craftingtableevolving.CraftingTableEvolving"
+    ],
+    "client": [
+      "dev.craftingtableevolving.client.CraftingTableEvolvingClient"
+    ]
+  },
+  "mixins": [
+    "crafting_table_evolving.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

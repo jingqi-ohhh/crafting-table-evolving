@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "crafting_table_evolving:crafting_tables"
+    },
+    {
+      "item": "minecraft:bundle"
+    }
+  ],
+  "result": {
+    "item": "crafting_table_evolving:portable_crafting_table",
+    "count": 1
+  }
+}

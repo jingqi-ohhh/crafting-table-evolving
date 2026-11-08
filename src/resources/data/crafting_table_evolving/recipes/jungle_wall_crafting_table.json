@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SSS",
+    "C C",
+    "TTT"
+  ],
+  "key": {
+    "S": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "C": {
+      "item": "minecraft:chain"
+    },
+    "T": {
+      "item": "crafting_table_evolving:jungle_crafting_table"
+    }
+  },
+  "result": {
+    "item": "crafting_table_evolving:jungle_wall_crafting_table",
+    "count": 1
+  }
+}
